@@ -1,4 +1,4 @@
- # ZkSync-Transfer-Script 
+ # ZkSync-Transfer-Script  
 This script demonstrates how to use ZkSync's JavaScript library to send ETH (Ethereum) from your ZkSync wallet to a recipient address. 
 const { ethers } = require("ethers");
 const { Wallet } = require("zksync");
